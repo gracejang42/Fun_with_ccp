@@ -1,7 +1,7 @@
 # Fun_with_ccp
 Assorted cpp exercises 
 
-# TicTacToe.cpp
+## TicTacToe.cpp
 
 Simple C++ implementation of Terminal TicTacToe
 
@@ -11,14 +11,14 @@ Player 1 and Player 2 automatically rotate turns until game completion
 
 Game quits automatically after a winner or a tie is announced 
 
-# Factorial.cpp
+## Factorial.cpp
 
 A simple C++ program for finding the factorial of number 
 
-# Palindrom.cpp
+## Palindrom.cpp
 
 A simple C++ program for determining if a string is a palindrome or not
 
-# Math2.cpp
+## Math2.cpp
 
 A simple calculator 
